@@ -9,10 +9,6 @@ Original file is located at
 
 import string
 import pandas as pd
-import numpy as np
-import random
-import os.path
-from csv import writer
 from tabulate import tabulate
 
 def take_input():
